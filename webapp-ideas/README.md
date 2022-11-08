@@ -1,5 +1,5 @@
 # ComeAppWith
-discription.
+description.
 
 
 ## Outline
