@@ -1,0 +1,70 @@
+<mxfile host="65bd71144e">
+    <diagram id="zUBAZ2U4URpkTUJYfsr_" name="ページ1">
+        <mxGraphModel dx="520" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="[Input]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;strokeWidth=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="40" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;div&gt;&lt;span&gt;Type&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Sentence&lt;/li&gt;&lt;li&gt;Selection&lt;/li&gt;&lt;li&gt;Input&lt;/li&gt;&lt;li&gt;Upload&lt;/li&gt;&lt;li&gt;Screen Transition&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="140" width="120" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;div&gt;Selif&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="400" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;div&gt;ID: UUID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="70" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;div&gt;DisplayImage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="460" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;div&gt;DisplayName&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="340" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;div&gt;SoundFile&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="520" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;div&gt;*Selection&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;SelectionList&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="170" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;div&gt;Next: UUID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="70" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="[Output]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;strokeWidth=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="720" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;div&gt;&lt;span&gt;Type&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Sentence&lt;/li&gt;&lt;li&gt;Selection&lt;/li&gt;&lt;li&gt;Input&lt;/li&gt;&lt;li&gt;Upload&lt;/li&gt;&lt;li&gt;Screen Transition&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="820" width="120" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;div&gt;Selif&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="1100" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;div&gt;ID: UUID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="750" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;div&gt;DisplayImage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="1160" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;div&gt;DisplayName&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="1040" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;div&gt;SoundFile&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="1220" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;div&gt;*Selection&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;SelectionList&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="820" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;div&gt;Next: UUID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="750" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;div&gt;*Input&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;InputText&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="890" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;div&gt;*Upload&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;UploadedFile&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="980" width="120" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
